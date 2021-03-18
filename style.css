@@ -342,14 +342,29 @@ img
 }
 @media screen and (min-width: 800px){
     .row .icon
-{   
-    margin: auto;
-    padding: 0;
-    height: 35vh;
-    width: 50%; 
-    line-height: 15em;
-    
-    font-size-adjust: auto; 
-}
-    
+    {   
+        margin: auto;
+        padding: 0;
+        height: 35vh;
+        width: 50%; 
+        line-height: 15em;
+
+        font-size-adjust: auto; 
+    }
+    .question
+    {
+        font-size: 2vw;
+    }
+    .ment
+    {
+        font-size: 3vw;
+    }
+    .good-partener h3
+    {
+        font-size: 4vw;
+    }
+    .bad-partener h3
+    {
+        font-size: 4vw;
+    }
 }
